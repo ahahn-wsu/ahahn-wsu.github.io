@@ -16,6 +16,6 @@ For more informaion please see the following pages:
 * [teaching]({{site.baseurl}}teaching)
 * [research]({{site.baseurl}}research)
 * [publications]({{site.baseurl}}publications)
-* [testbed]({{site.baseurl}}testbed)
+* [testbed]({{site.baseurl}}smartcity)
 
 Code written by our research group can be found [here](https://github.com/wsu-smartcity)
