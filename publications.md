@@ -9,7 +9,7 @@ author_profile: true
 * Md Touhiduzzaman, A. Hahn, A. Srivastava. A Diversity-based Substation Cyber Defense Strategy utilizing Coloring Games. 7 Feb 2018. https://arxiv.org/pdf/1802.02618.pdf
 * Y. Zhang, V. V. G. Krishnan, J. Pi, K. Kaur, A. Srivastava, A. Hahn, S. Suresh. Cyber Physical Security Analytics for Transactive Energy Systems. Transaction of Smart Grid (under review).
 * J. Xie, J. Carlos Bedoya, C.C. Liu, A. Hahn, K. Kaur, R. Singh. A Novel Educational Module Using a Cyber-Physical Distribution System Testbed. IEEE Transactions on Power Systems (under review)
-* V. Venkataramanan, S. Chanda, A. Hahn, A. Srivastava. CyPhyR: A Cyber-Physical Analysis Tools for Resilient Microgrid Operation and Planning. Transaction of Smart Grid (under review).
+* V. Venkataramanan, S. Chanda, A. Hahn, A. Srivastava. CyPhyR: A Cyber-Physical Analysis Tools for Resilient Microgrid Operation and Planning. Transaction of Smart Grid (to be submitted).
 * Md Touhiduzzaman, A. Hahn, A. Srivastava, ARCADES: Analysis of Risk from Cyber Attack against DEfensive Strategies for power grid. IET Cyber-Physical Systems: Theory & Applications. (To Appear)
 * C.C. Sun, A. Hahn, C.C. Liu, Cyber Security of a Power Grid: State-of-the-Art. International Journal of Electrical Power and Energy Systems. 2017.
 * J. Qi, A. Hahn, X. Lu, J. Wang, C.C. Liu. Cybersecurity for distributed energy resources and smart inverters. IET Cyber-Physical Systems: Theory & Applications, 2016, 1, (1), p. 28-39. 
