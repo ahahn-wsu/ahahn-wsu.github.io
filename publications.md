@@ -19,6 +19,7 @@ author_profile: true
 
 
 ## Conference/Workshops
+* Ali Tamimi, Ozgur Oksuz, Jinyoung Lee, Adam Hahn. Attack Surface Metrics and Privilege-based Reduction Strategies for Cyber-Physical Systems. 6 Jun 2018. https://arxiv.org/abs/1806.06168
 * Vignesh V, Y.Zhang, K. Kaur, A. Srivastava, A. Hahn, S. Sindhu. Impact of Cyber Attacks on Operation of Transactive Energy Framework. 2018 IEEE PES Transmission and Distribution Conference. Denver, CO. April 2018. (to appear)
 * S. Roy, A Tamimi, A. Hahn, M. Xue, S. Das, A. Vosughi, S. Warnick . A Modeling Framework for Assessing Cyber Disruptions and Attacks to the National Airspace System. 2018 AIAA Modeling and Simulation Technologies Conference. Kissimmee, Florida, 8-12 January 2018.  
 * Sandip Roy, Adam Hahn, Mengran Xue. Feedback Control Systems with Cyber Fault-Management Mechanisms: Modeling and Tradeoff Analysis for Simple Examples. 1st IEEE Conference on Control Technology and Applications. August 27-30, 2017. 

@@ -8,7 +8,7 @@ author_profile: true
 ## Projects
 ### Attack Surface Analysis Tools
 Develop theoretical metrics for system attacks surface to model the complex interdependencies in critical power grid control systems, such as SCADA servers and distribution management systems.
-Prototype code can be found [here](https://github.com/ESIC-DA/AHA-Scraper)
+Prototype code can be found [here](https://aha-project.github.io)
 
 ### Trusted Execution Environments for CPS
 This explore techniques to secure cyber-physical systems through Trusted Execution Environments (TEE), which enable improved detection of key system functions and data.
