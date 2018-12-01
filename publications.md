@@ -6,10 +6,15 @@ author_profile: true
 ---
 
 ## Journals
-* V. Venkataramanan, S. Chanda, A. Hahn, A. Srivastava. CyPhrR: A Cyber-Physical Analaysis Tool For Resilient Microgrid Operation and Planning.  IEEE Transactions on Industrial Informatics. (under review)
-* Md Touhiduzzaman, A. Hahn, A. Srivastava. A Diversity-based Substation Cyber Defense Strategy utilizing Coloring Games. 7 Feb 2018. https://arxiv.org/pdf/1802.02618.pdf Transactions on Smart Grid (under review)
-* J. Xie, J. Carlos Bedoya, C.C. Liu, A. Hahn, K. Kaur, R. Singh. A Novel Educational Module Using a Cyber-Physical Distribution System Testbed. IEEE Transactions on Power Systems (To Appear)
-* Md Touhiduzzaman, A. Hahn, A. Srivastava, ARCADES: Analysis of Risk from Cyber Attack against DEfensive Strategies for power grid. IET Cyber-Physical Systems: Theory & Applications. (To Appear)
+* A. Tamimi, A. Hahn, and S. Roy. Cyber Threat Impact Analysis to Air Traffic Flows Through Dynamic Queue Networks. (Under Review). arXiv (https://arxiv.org/abs/1810.07514). 2018.  
+* D. J. Sebastian, A. Hahn, C.C. Liu. Assessing cyber-physical risks of DER devices in Wide-area grid operations (Under Review) 2018.  
+* S. Wang, A. Taha, J. Wang, K. Kvaternik, A. Hahn.Energy Crowdsourcing and Peer-to-Peer Energy Trading in Blockchain-Enabled Smart Grids. (Under Review). arXiv. 2018.   
+* D. J. Sebastian, U. Agrawal, A. Tamimi, A. Hahn. DERTEE: Secure Distributed Energy Resource Operations through Trusted Execution Environments (Under Review).2018.  
+* Md Touhiduzzaman. A. Hahn. S. Lotfifard. A Distributed Cyberattack Diagnosis Scheme for Malicious Protection Operation based on IEC 61850. IEEE Transactions on Smart Grid (Under Review). 2018.  
+* V. Venkataramanan, S. Chanda, A. Hahn, A. Srivastava. CyPhrR: A Cyber-Physical Analaysis Tool For Resilient Microgrid Operation and Planning.  IEEE Transactions on Industrial Informatics. (under review)2018.  
+* Md Touhiduzzaman, A. Hahn, A. Srivastava. A Diversity-based Substation Cyber Defense Strategy utilizing Coloring Games. 7 Feb 2018. https://arxiv.org/pdf/1802.02618.pdf Transactions on Smart Grid (under review). 2018.  
+* J. Xie, J. Carlos Bedoya, C.C. Liu, A. Hahn, K. Kaur, R. Singh. A Novel Educational Module Using a Cyber-Physical Distribution System Testbed. IEEE Transactions on Power Systems. 2018.  
+* Md Touhiduzzaman, A. Hahn, A. Srivastava, ARCADES: Analysis of Risk from Cyber Attack against DEfensive Strategies for power grid. IET Cyber-Physical Systems: Theory & Applications. 2018.
 * C.C. Sun, A. Hahn, C.C. Liu, Cyber Security of a Power Grid: State-of-the-Art. International Journal of Electrical Power and Energy Systems. 2017.
 * J. Qi, A. Hahn, X. Lu, J. Wang, C.C. Liu. Cybersecurity for distributed energy resources and smart inverters. IET Cyber-Physical Systems: Theory & Applications, 2016, 1, (1), p. 28-39. 
 * A. K. Srivastava; A. L. Hahn; O. O. Adesope; C. H. Hauser; D. E. Bakken, Experience with a Multi-Disciplinary, Team-Taught Smart Grid Cyber Infrastructure Course, in IEEE Transactions on Power Systems, vol no. 99, pp.1-1. 2016. doi: 10.1109/TPWRS.2016.2611588.  
@@ -19,8 +24,10 @@ author_profile: true
 
 
 ## Conference/Workshops
+* A. Hahn, D. Anderson, A. Tamimi. Securing Your ICS Software  with the AttackSurface Host Analyzer (AHA). 2018 Annual Industrial Control System Security (ICSS) Workshop. San Juan, PR. Dec. 4. 2018. (To Appear)
+* K. Kaur, A. Hahn, S. N. G. Gourisetti. Enabling Secure Grid Information Sharing through Hash Calendar-based Blockchain Infrastructures (Under Review) 
 * Ali Tamimi, Ozgur Oksuz, Jinyoung Lee, Adam Hahn. Attack Surface Metrics and Privilege-based Reduction Strategies for Cyber-Physical Systems. 6 Jun 2018. https://arxiv.org/abs/1806.06168
-* Vignesh V, Y.Zhang, K. Kaur, A. Srivastava, A. Hahn, S. Sindhu. Impact of Cyber Attacks on Operation of Transactive Energy Framework. 2018 IEEE PES Transmission and Distribution Conference. Denver, CO. April 2018. (to appear)
+* Vignesh V, Y.Zhang, K. Kaur, A. Srivastava, A. Hahn, S. Sindhu. Impact of Cyber Attacks on Operation of Transactive Energy Framework. 2018 IEEE PES Transmission and Distribution Conference. Denver, CO. April 2018. 
 * S. Roy, A Tamimi, A. Hahn, M. Xue, S. Das, A. Vosughi, S. Warnick . A Modeling Framework for Assessing Cyber Disruptions and Attacks to the National Airspace System. 2018 AIAA Modeling and Simulation Technologies Conference. Kissimmee, Florida, 8-12 January 2018.  
 * Sandip Roy, Adam Hahn, Mengran Xue. Feedback Control Systems with Cyber Fault-Management Mechanisms: Modeling and Tradeoff Analysis for Simple Examples. 1st IEEE Conference on Control Technology and Applications. August 27-30, 2017. 
 * D. J. Sebastian, A. Hahn. Exploring Emerging Cybersecurity Risks from Network-Connected DER Devices. 2017 North American Power Symposium (NAPS). Morgantown, WV. September 2017. 

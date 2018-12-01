@@ -10,7 +10,7 @@ header:
   overlay_image: /assets/images/code_fade.png
 
 ---
-This is my public site for my research and teaching releated work at Washington State University. 
+This is the public site for my research and teaching related activites at Washington State University. 
 For more informaion please see the following pages:
 * [about]({{site.baseurl}}about)
 * [teaching]({{site.baseurl}}teaching)
