@@ -6,13 +6,13 @@ author_profile: true
 ---
 
 ## Journals
-* A. Tamimi, A. Hahn, and S. Roy. Cyber Threat Impact Analysis to Air Traffic Flows Through Dynamic Queue Networks. (Under Review). arXiv (https://arxiv.org/abs/1810.07514). 2018.  
-* D. J. Sebastian, A. Hahn, C.C. Liu. Assessing cyber-physical risks of DER devices in Wide-area grid operations (Under Review) 2018.  
+* A. Tamimi, A. Hahn, and S. Roy. Cyber Threat Impact Analysis to Air Traffic Flows Through Dynamic Queue Networks.  arXiv (https://arxiv.org/abs/1810.07514). ACM Transactions on Cyber-Physical Systems (Under Review) 2018. 
+* D. J. Sebastian, A. Hahn, C.C. Liu. Assessing cyber-physical risks of DER devices in Wide-area grid operations. IEEE Transactions on Smart Grid (Under Review) 2018.  
 * S. Wang, A. Taha, J. Wang, K. Kvaternik, A. Hahn.Energy Crowdsourcing and Peer-to-Peer Energy Trading in Blockchain-Enabled Smart Grids. (Under Review). arXiv. 2018.   
-* D. J. Sebastian, U. Agrawal, A. Tamimi, A. Hahn. DERTEE: Secure Distributed Energy Resource Operations through Trusted Execution Environments (Under Review).2018.  
+* D. J. Sebastian, U. Agrawal, A. Tamimi, A. Hahn. DERTEE: Secure Distributed Energy Resource Operations through Trusted Execution Environments. IEEE Internet of Things (IoT) Journal  (Under Review).2018.  
 * Md Touhiduzzaman. A. Hahn. S. Lotfifard. A Distributed Cyberattack Diagnosis Scheme for Malicious Protection Operation based on IEC 61850. IEEE Transactions on Smart Grid (Under Review). 2018.  
-* V. Venkataramanan, S. Chanda, A. Hahn, A. Srivastava. CyPhrR: A Cyber-Physical Analaysis Tool For Resilient Microgrid Operation and Planning.  IEEE Transactions on Industrial Informatics. (under review)2018.  
-* Md Touhiduzzaman, A. Hahn, A. Srivastava. A Diversity-based Substation Cyber Defense Strategy utilizing Coloring Games. 7 Feb 2018. https://arxiv.org/pdf/1802.02618.pdf Transactions on Smart Grid (under review). 2018.  
+* V. Venkataramanan, S. Chanda, A. Hahn, A. Srivastava. CyPhrR: A Cyber-Physical Analaysis Tool For Resilient Microgrid Operation and Planning.  IEEE Transactions on Industrial Informatics. (under review) 2018.  
+* Md Touhiduzzaman, A. Hahn, A. Srivastava. A Diversity-based Substation Cyber Defense Strategy utilizing Coloring Games. 7 Feb 2018. https://arxiv.org/pdf/1802.02618.pdf. IEEE Transactions on Smart Grid (To Appear). 2018.  
 * J. Xie, J. Carlos Bedoya, C.C. Liu, A. Hahn, K. Kaur, R. Singh. A Novel Educational Module Using a Cyber-Physical Distribution System Testbed. IEEE Transactions on Power Systems. 2018.  
 * Md Touhiduzzaman, A. Hahn, A. Srivastava, ARCADES: Analysis of Risk from Cyber Attack against DEfensive Strategies for power grid. IET Cyber-Physical Systems: Theory & Applications. 2018.
 * C.C. Sun, A. Hahn, C.C. Liu, Cyber Security of a Power Grid: State-of-the-Art. International Journal of Electrical Power and Energy Systems. 2017.
@@ -25,7 +25,7 @@ author_profile: true
 
 ## Conference/Workshops
 * A. Hahn, D. Anderson, A. Tamimi. Securing Your ICS Software  with the AttackSurface Host Analyzer (AHA). 2018 Annual Industrial Control System Security (ICSS) Workshop. San Juan, PR. Dec. 4. 2018. (To Appear)
-* K. Kaur, A. Hahn, S. N. G. Gourisetti. Enabling Secure Grid Information Sharing through Hash Calendar-based Blockchain Infrastructures (Under Review) 
+* K. Kaur, A. Hahn, S. N. G. Gourisetti. Enabling Secure Grid Information Sharing through Hash Calendar-based Blockchain Infrastructures. 2018 IEEE ISGT (Under Review) 
 * Ali Tamimi, Ozgur Oksuz, Jinyoung Lee, Adam Hahn. Attack Surface Metrics and Privilege-based Reduction Strategies for Cyber-Physical Systems. 6 Jun 2018. https://arxiv.org/abs/1806.06168
 * Vignesh V, Y.Zhang, K. Kaur, A. Srivastava, A. Hahn, S. Sindhu. Impact of Cyber Attacks on Operation of Transactive Energy Framework. 2018 IEEE PES Transmission and Distribution Conference. Denver, CO. April 2018. 
 * S. Roy, A Tamimi, A. Hahn, M. Xue, S. Das, A. Vosughi, S. Warnick . A Modeling Framework for Assessing Cyber Disruptions and Attacks to the National Airspace System. 2018 AIAA Modeling and Simulation Technologies Conference. Kissimmee, Florida, 8-12 January 2018.  
